@@ -162,7 +162,7 @@
             console.log(e);
             return alert("Access Error");
         }
-
+console.log(fundsJson);
         if(isLocal) fundsJson.code = code;
         dom.add("script").addTxt(fundsJson.code).attachTo(document.head);
 
