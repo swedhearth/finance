@@ -361,12 +361,11 @@ label:active, .navBtn:active, .navBtnActive, .submitBtn:active{
 }
 
 /* .pink_linear_01 */
-.remontLegendCol_4{
+.remontLegendCol_0{
 	background: linear-gradient(90deg, rgba(150, 0, 0, 0.2), rgba(255, 200, 200, 0.2), rgba(150, 0, 0, 0.2));
 }
 /* red_linear_01 */
-
-.holidayLegendCol_1, .remontLegendCol_0{
+.holidayLegendCol_1, .remontLegendCol_4{
 	background: linear-gradient(90deg, rgb(255 165 165), rgb(255 254 254), rgb(255 12 12));
 }
 
@@ -381,7 +380,7 @@ label:active, .navBtn:active, .navBtnActive, .submitBtn:active{
 }
 
 /* .blue_linear_01 */
-.holidayLegendCol_3, .remontLegendCol_3{
+.holidayLegendCol_3, .remontLegendCol_2{
 	background: linear-gradient(90deg, rgb(165 165 255), rgb(240 240 255), rgb(0 0 255));
 }
 /* .blue_linear_02 */
@@ -393,7 +392,7 @@ label:active, .navBtn:active, .navBtnActive, .submitBtn:active{
 	background: linear-gradient(90deg, rgb(165 222 255), rgb(240 249 255), rgb(0 173 255));
 }
 /* .blue_linear_04 */
-.holidayLegendCol_6, .remontLegendCol_2{
+.holidayLegendCol_6, .remontLegendCol_3{
 	background: linear-gradient(90deg, rgb(158 242 255), rgb(232 249 255), rgb(0 173 239));
 }
 /* .purple_linear_01 */
